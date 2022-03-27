@@ -25,8 +25,8 @@ I am 24 years old and currently live in Presidente Prudente - SP in Brazil.
 
 <div align="left">
   <a href="https://github.com/ncsmatias">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncsmatias&langs_count=8"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ncsmatias&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncsmatias&langs_count=8"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ncsmatias&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
   
 <div> 
