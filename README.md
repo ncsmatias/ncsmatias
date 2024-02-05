@@ -9,13 +9,15 @@ A notable aspect of my journey is the commitment to transparency and collaborati
 
 ### EXPERTISE
 
-I am fluent in JavaScript and Python, and I continue to explore new technologies and trends in web development. Over time, I have been using this space on GitHub to research ideas and share my applications with the community. Additionally, I have participated in the development of applications using various technologies, such as Java, MongoDB, PostgreSQL, PHP, and Flutter. These diverse experiences have expanded my knowledge and skills, enabling me to effectively tackle complex challenges.
+I am fluent in JavaScript and Python, and I continue to explore new technologies and trends in web development. Over time, I have been using this space on GitHub to research ideas and share my applications with the community. Additionally, I have participated in the development of applications using various technologies, such as Typescript, Java, MongoDB, PostgreSQL, PHP, and Flutter. These diverse experiences have expanded my knowledge and skills, enabling me to effectively tackle complex challenges.
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />         
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
 </div
   
