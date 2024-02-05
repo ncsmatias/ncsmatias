@@ -1,21 +1,22 @@
-### Hi there! 👋 Welcome to my Github profile.
+## Hi there! 👋 Welcome to my Github profile.
 
-### My name is Nícolas Matias!
+#### My name is Nícolas Matias!
+Greetings! I am Nícolas Matias, and my journey in the world of technology began when I pressed the keys of a computer for the first time in my childhood. Since then, my passion for computing has led me to explore the endless possibilities of technology. Currently, I contribute as a Front-end and Mobile developer in a dynamic development team.
 
-I am 24 years old and currently live in Presidente Prudente - SP in Brazil.
+Linux is my passion, and alongside it, my heart lies in the fields of web development and machine learning. My personal projects reflect this passion, always revolving around these intriguing spheres. From crafting seamless web experiences to delving into the intricacies of machine learning algorithms, each project is a journey of discovery.
 
+A notable aspect of my journey is the commitment to transparency and collaboration. My GitHub space serves as a playground where I explore ideas and share applications with the vibrant developer community.
 
-- 🔭 I’m currently working on mobile app development and front-end
-- 🌱 I’m currently learning Flutter and Typescript
+### EXPERTISE
 
-### Languages
-
+I am fluent in JavaScript and Python, and I continue to explore new technologies and trends in web development. Over time, I have been using this space on GitHub to research ideas and share my applications with the community. Additionally, I have participated in the development of applications using various technologies, such as Java, MongoDB, PostgreSQL, PHP, and Flutter. These diverse experiences have expanded my knowledge and skills, enabling me to effectively tackle complex challenges.
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />         
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
 </div
   
 <br>
